@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714161574 source:c:\users\hisanchez\desktop\umg\programacion\practica para primer parcial\graficgeometrico\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
